@@ -6,7 +6,7 @@ import time
 
 def banner():
     print()
-    print("""  \t \t\033[93m UNDERGROUND SECURITY PH [ LOL ]
+    print("""  \t \t\033[93m UNDERGROUND SECURITY PH [ V ]
 
 \t\033[36m[-] DDOS:\033[36m BONUMMASTER""")
 
